@@ -1,0 +1,19 @@
+{
+  "name": "bc2025-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artekk114/bc2025-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artekk114/bc2025-4/issues"
+  },
+  "homepage": "https://github.com/Artekk114/bc2025-4#readme"
+}
